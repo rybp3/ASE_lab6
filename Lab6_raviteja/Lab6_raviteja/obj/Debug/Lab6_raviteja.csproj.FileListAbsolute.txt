@@ -1,0 +1,4 @@
+\\kc.umkc.edu\kc-users\home\r\rybp3\my documents\visual studio 2010\Projects\Lab6_raviteja\Lab6_raviteja\bin\Lab6_raviteja.dll
+\\kc.umkc.edu\kc-users\home\r\rybp3\my documents\visual studio 2010\Projects\Lab6_raviteja\Lab6_raviteja\bin\Lab6_raviteja.pdb
+\\kc.umkc.edu\kc-users\home\r\rybp3\my documents\visual studio 2010\Projects\Lab6_raviteja\Lab6_raviteja\obj\Debug\Lab6_raviteja.dll
+\\kc.umkc.edu\kc-users\home\r\rybp3\my documents\visual studio 2010\Projects\Lab6_raviteja\Lab6_raviteja\obj\Debug\Lab6_raviteja.pdb
